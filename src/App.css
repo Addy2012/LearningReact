@@ -1,15 +1,17 @@
 .App {
-  width:90%;
-  margin:0 auto;
+  text-align: center;
+}
+h1{
+  font-family: 'Bigelow Rules';
+  font-size:72px;
+  color: #0ccac4;
 }
 
 input[type=search]{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 1%;
-  margin-top: 1%;
-  width: 40%;
+    margin-bottom: 1%;
+    width: 40%;
+    padding: 1%;
+    height: 74%;
 }
 
 .App-logo {
